@@ -1,6 +1,6 @@
 # Contas em Dia
 
-Projeto de estudo em Python para controlar contas a pagar e receber. Usa classes e MVP, com uma divisão pequena de arquivos, nomes em português e métodos diretos. O código não contém comentários nem docstrings.
+Projeto de estudo em Python para controlar contas a pagar e receber.
 
 ## Abrir
 
@@ -68,3 +68,7 @@ Os testes usam uma pasta temporária e não alteram dados reais. Conferem conver
 ## Escopo
 
 Feito para estudo e uso local. Não contém login, trilha de auditoria, sincronização, importação CSV, juros, integração bancária, emissão fiscal ou saldo inicial. Não é um sistema contábil completo.
+
+## Tela do programa
+
+![Tela principal do Contas em Dia](tela-principal.png)
