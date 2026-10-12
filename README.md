@@ -68,5 +68,3 @@ Os testes usam uma pasta temporária e não alteram dados reais. Conferem conver
 ## Escopo
 
 Feito para estudo e uso local. Não contém login, trilha de auditoria, sincronização, importação CSV, juros, integração bancária, emissão fiscal ou saldo inicial. Não é um sistema contábil completo.
-
-Classes, MVP, SQL e regras de negócio ajudam na preparação para a vaga, mas este projeto não usa C#, WinForms, Entity Framework, SQL Server ou PostgreSQL. Estude e execute o código antes de apresentá-lo..
